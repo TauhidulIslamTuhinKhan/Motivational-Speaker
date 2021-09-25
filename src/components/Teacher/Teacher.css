@@ -1,0 +1,20 @@
+
+.single-teacher-container {
+    background-color: lightgray;
+    margin: 10px;
+    text-align: center;
+    padding: 20px 0 10px;
+    border-radius: 10px;
+}
+
+
+.single-teacher-container img {
+    border-radius: 50%;
+    width: 100px;    
+}
+.single-teacher-container button {
+    padding: 5px 30px;
+    border-radius: 10px;
+    border: 0;
+    cursor: pointer;
+}
