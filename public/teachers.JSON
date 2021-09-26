@@ -4,7 +4,7 @@
         "name": "Prof Abdullah Abu Sayeed",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/abudllah.jpg?itok=kqqNSpGD&timestamp=1454654320",     
         "age": 59,
-        "position": "President",
+        "position": "Chancellor",
         "nationality": "Bangladeshi",
         "salary": 100001
     },
@@ -13,7 +13,7 @@
         "name": "Prof. A.M. Harun-ar-Rashid",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/harun_0.jpg?itok=-KOxlQM9&timestamp=1454654559",     
         "age": 58,
-        "position": "Vice-President",
+        "position": "Vice-Chancellor",
         "nationality": "Bangladeshi",
         "salary": 99999
     },
@@ -22,7 +22,7 @@
         "name": "Dr. Angela Gomes",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/angela_0.jpg?itok=KZMkvKE6&timestamp=1454654658",     
         "age": 57,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
@@ -31,7 +31,7 @@
         "name": "Prof. Anisuzzaman",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/anisuzzaman.jpg?itok=jc1Ws_7I&timestamp=1588087858",     
         "age": 57,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
@@ -40,7 +40,7 @@
         "name": "Prof. Arun Kumar Basak",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/arun.jpg?itok=SUk5sSdP&timestamp=1454654919",     
         "age": 56,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
@@ -49,7 +49,7 @@
         "name": "Bashir Ahmed",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/bashir.jpg?itok=j-4Pz5xF&timestamp=1454655066",     
         "age": 53,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
@@ -58,7 +58,7 @@
         "name": "Prof. Dwijen Sarma",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/prof._dwijen_sarma.jpg?itok=TTCL_48U&timestamp=1454655221",     
         "age": 52,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
@@ -67,7 +67,7 @@
         "name": "Hasan Azizul Haque",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/azizul.jpg?itok=RYcWGe41&timestamp=1454655681",     
         "age": 55,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
@@ -76,7 +76,7 @@
         "name": "Mahbubur Rahman",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/mahbubur.jpg?itok=nkP_7OWP&timestamp=1454656224",     
         "age": 56,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
@@ -85,7 +85,7 @@
         "name": "Mustafa Monwar",    
         "img": "https://img.thedailystar.net/sites/default/files/styles/medium_205/public/news/images/mustafa_0.jpg?itok=4jQC3okv&timestamp=1454657184",     
         "age": 48,
-        "position": "Member",
+        "position": "Teacher",
         "nationality": "Bangladeshi",
         "salary": 99990
     },
