@@ -1,11 +1,17 @@
 
 .main-container {
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 1fr 4fr;
     margin-right: 10px;
-    margin-left: 100px;
+    margin-left: 20px;
 }
 .teacher-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+}
+.honorium-container {
+    background-image: linear-gradient(to right top, #f9742f, #fa6430,
+    #fb5232, #fb3c36, #fa1b3b);
+    margin: 10px 10px 0 0;
+    border-radius: 10px;
 }

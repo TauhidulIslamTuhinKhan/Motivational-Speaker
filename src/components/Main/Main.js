@@ -20,6 +20,9 @@ const Main = () => {
     
     return (
         <div className = "main-container">
+            <div className="honorium-container">
+                <Cart cart = {cart}></Cart>
+            </div>
             <div className="teacher-container">                
                 {
                     teachers.map(teacher => <Teacher 
@@ -29,9 +32,7 @@ const Main = () => {
                         ></Teacher>)
                 }
             </div>
-            <div className="honorium-container">
-                <Cart cart = {cart}></Cart>
-            </div>
+            
         </div>
     );
 };

@@ -1,11 +1,16 @@
 
 .header-container {
     text-align: center;
+    background-image: linear-gradient(to right top, #f9742f, #fa6430,
+    #fb5232, #fb3c36, #fa1b3b);
+    margin: 0 20px 10px 20px; 
+    padding: 20px 0 10px;   
+    border-radius: 10px;
 }
 .header-container h2 {
     font-size: 50px;
     font-weight: 700;
-    margin-bottom: 0;
+    margin: 0;
 }
 .header-container p {
     font-size: 24px;

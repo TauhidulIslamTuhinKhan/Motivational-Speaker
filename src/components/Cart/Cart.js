@@ -1,26 +1,22 @@
 import React from 'react';
 import './cart.css'
 
-const Cart = (props) => {
-    // console.log(props);
-    const { cart } = props;
-    // console.log(cart);
+const Cart = (props) => {   
+    const { cart } = props;    
     let total = 0;
     for(const teacher of cart){
         total = total + teacher.salary;               
-    }
-    
-    
+    }      
      
     return (
-        <div>
+        <div className="honorium">
             <h3>Lecturer Added : {cart.length}</h3>
             <p>Total Honorium : {total}</p>
-            <span>
+            <p className="cart-list">
                 {
                     cart.map(teacher => teacher.name)
                 }
-            </span>
+            </p>
         </div>
     );
 };
