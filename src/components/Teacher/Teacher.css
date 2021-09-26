@@ -1,6 +1,7 @@
 
 .single-teacher-container {
-    background-color: lightgray;
+    background-image: linear-gradient(to right top, #f9742f, #fa6430,
+    #fb5232, #fb3c36, #fa1b3b);
     margin: 10px;
     text-align: center;
     padding: 20px 0 10px;

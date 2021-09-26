@@ -14,7 +14,7 @@ const Cart = (props) => {
      
     return (
         <div>
-            <h3>Teachers Added : {cart.length}</h3>
+            <h3>Lecturer Added : {cart.length}</h3>
             <p>Total Honorium : {total}</p>
             <span>
                 {
